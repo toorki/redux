@@ -1,0 +1,9 @@
+*{margin: 10px;}
+.todo{
+    display: flex;
+    justify-content: space-around;
+  }
+  .edit{
+
+    border: red;
+  }
